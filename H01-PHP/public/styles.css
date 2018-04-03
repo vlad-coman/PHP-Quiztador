@@ -1,0 +1,60 @@
+.error {
+	color:red;
+}
+
+.err {
+	margin-left: 1.1em;
+}
+
+.container.main {
+    margin-top: 7em;
+}
+
+#user {
+	
+	margin-left: -2em;
+}
+
+#but {
+	margin-left: -4em;
+}
+
+#invalid_account {
+	position:absolute;
+	margin-top: 50px;
+	margin-left: 16px;
+}
+
+#name {
+	text-align: center;
+	margin-top: 2em;
+}
+
+#table {
+	margin-top: 5em;
+}
+
+#logout {
+	text-align: center;
+	margin-bottom: 3em;
+	margin-top: 3em;
+}
+
+#not_logged {
+	text-align:center;
+	margin-top: 3em;
+}
+
+#back {
+	text-align: center;
+}
+
+#flash_message {
+	position: absolute;
+	margin-top: 5em;
+	text-align: center;
+	width: 100%;
+}
+.remove {
+	display:none;
+}
